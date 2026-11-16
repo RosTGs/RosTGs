@@ -17,6 +17,7 @@ const selected = [
   { name: 'helltaker-lilith', title: 'ИСТОРИЯ / 01', description: 'Лилит в Helltaker: свой персонаж, танцевальная анимация и русская история.' },
   { name: 'DonationAlertsPluginUE5', title: 'ИНСТРУМЕНТ / 02', description: 'События трансляции становятся игровыми действиями через подсистемы Unreal Engine и Blueprint.' },
   { name: 'vovka-pet', title: 'ПЕРСОНАЖ / 03', description: 'Вовка — анимированный питомец Codex. Движения и эмоции собраны в готовый пакет.' },
+  { name: 'litsedey', title: 'АНИМАЦИЯ / 04', description: 'Лицедей: слои, деформация сеток и анимация 2D-персонажей. Версия 0.4 — рабочий прототип.' },
 ];
 const repos = [];
 for (let page = 1; ; page++) {
